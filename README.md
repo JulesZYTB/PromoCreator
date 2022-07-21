@@ -1,6 +1,6 @@
 # `PROMOCREATOR` `🌐`
 - Fast
-- Effectient
+- Efficient
 
 # `WARNING` `⚠️`
 > **Note**
